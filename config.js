@@ -9,8 +9,8 @@ System.config({
 
 System.config({
   "map": {
+    "jquery": "github:components/jquery@2.1.3",
     "jsonp": "npm:jsonp@0.1.0",
-    "velocity": "github:julianshapiro/velocity@1.2.1",
     "github:jspm/nodelibs-fs@0.1.0": {
       "assert": "npm:assert@1.3.0",
       "fs": "github:jspm/nodelibs-fs@0.1.0"

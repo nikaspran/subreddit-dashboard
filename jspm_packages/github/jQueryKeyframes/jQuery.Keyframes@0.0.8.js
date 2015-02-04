@@ -1,0 +1,1 @@
+module.exports = require("github:jQueryKeyframes/jQuery.Keyframes@0.0.8/jquery.keyframes.min");

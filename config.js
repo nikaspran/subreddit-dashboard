@@ -11,6 +11,7 @@ System.config({
   "map": {
     "jquery": "github:components/jquery@2.1.3",
     "jsonp": "npm:jsonp@0.1.0",
+    "screenfull": "npm:screenfull@2.0.0",
     "github:jspm/nodelibs-fs@0.1.0": {
       "assert": "npm:assert@1.3.0",
       "fs": "github:jspm/nodelibs-fs@0.1.0"
